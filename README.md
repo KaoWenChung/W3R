@@ -9,3 +9,7 @@ Day 2
 
 Day 3
 - Exchange the first and last characters in a string
+
+Day 4-6
+- w3resource-Swift Basic Programming 9-13 [28 exercises with solution](https://w3resource.com/swift-programming-exercises/basic/index.php)
+- SwiftUI-BullseyeLearning by [Ray Wenderlich](https://www.raywenderlich.com/4919757-your-first-ios-and-swiftui-app/lessons/1)
