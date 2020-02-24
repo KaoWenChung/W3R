@@ -9,3 +9,4 @@ func check123(_ ar:[Int])->Bool{
 }
 print(check123([5,6,3,1,6,2,0]))
 print(check123([5,6,3,0,6,2,0]))
+

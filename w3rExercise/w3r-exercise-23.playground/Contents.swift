@@ -25,5 +25,3 @@ print(check7([5,2,1,5,7]))
 print(check7([5,2,1]))
 print(check7([7,2,1]))
 print(check7([7]))
-
-
